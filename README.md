@@ -30,8 +30,6 @@ A Power BI and SQL portfolio project examining AI adoption, Copilot license util
 ## Current Focus
 
 - Building a portfolio of end-to-end business intelligence projects
-- Preparing for the Microsoft Power BI Data Analyst certification (PL-300)
-- Exploring Business Analyst, BI Analyst, and AI Adoption opportunities in Auckland, New Zealand
 
 ## Tools
 
